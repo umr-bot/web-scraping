@@ -1,0 +1,2729 @@
+
+doctype html
+[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]
+[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]
+[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]
+[if IE 9 ]>   <html class="no-js ie9 oldie" lang="en"> <![endif]
+
+
+
+
+
+
+
+(function(e){if(typeof e.za24_exk=='undefined')e.za24_exk=new Array;if(typeof e.za24_exkt=='undefined')e.za24_exkt=new Array})(window)
+window.za24_exkt.push('weather');window.za24_exk.push('1');
+
+var $share24 ={
+url: "https://www.news24.com/",
+text: "News24 | South Africas leading source of breaking news, opinion and insight",
+twittersharename: "News24"
+};
+
+
+	News24 | South Africa's leading source of breaking news, opinion and insight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        var _sf_startpt = (new Date()).getTime()
+
+
+
+
+
+
+
+        var $j = jQuery.noConflict(); var isHomePage = false; document.domain = "news24.com";
+    
+
+
+        _atrk_opts = { atrk_acct: "wI6gl1asWhy36C", domain: "news24.com", dynamic: true };
+        (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+    
+
+
+
+
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PWXKZK8');
+
+
+
+
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1106253262752192'); 
+fbq('track', 'PageView');
+
+
+
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+za24_AdSite='/8900/24.com/Web/News24'; 
+za24_AdZone='/Homepage';
+za24_DescUrl='https://www.news24.com/'; 
+za24_IsAsync=true;
+za24_InterstitialEnabled=false;
+
+za24_AdSize[1]='2x1'; za24_AdPositionNo[1]='1'; 
+za24_AdSize[2]='300x600'; za24_AdPositionNo[2]='1'; 
+za24_AdSize[3]='300x250'; za24_AdPositionNo[3]='1'; 
+za24_AdSize[4]='278x35'; za24_AdPositionNo[4]='1'; 
+za24_AdSize[5]='300x250'; za24_AdPositionNo[5]='2'; 
+za24_AdSize[6]='300x35'; za24_AdPositionNo[6]='1'; 
+za24_AdSize[7]='278x35'; za24_AdPositionNo[7]='2'; 
+za24_AdSize[8]='200x400'; za24_AdPositionNo[8]='1'; 
+za24_AdSize[9]='301x250'; za24_AdPositionNo[9]='1'; 
+za24_AdSize[10]='300x87'; za24_AdPositionNo[10]='1'; 
+za24_AdSize[11]='280x96'; za24_AdPositionNo[11]='1'; 
+za24_AdSize[12]='333x250'; za24_AdPositionNo[12]='1'; 
+za24_AdSize[13]='300x81'; za24_AdPositionNo[13]='1'; 
+za24_AdSize[14]='278x35'; za24_AdPositionNo[14]='4'; 
+za24_AdSize[15]='278x35'; za24_AdPositionNo[15]='3'; 
+za24_AdSize[16]='fluid'; za24_AdPositionNo[16]='1'; 
+za24_AdSize[17]='728x90'; za24_AdPositionNo[17]='1'; 
+za24_AdSize[18]='980x90'; za24_AdPositionNo[18]='1'; 
+za24_AdSize[19]='970x250'; za24_AdPositionNo[19]='1'; 
+za24_AdSize[20]='278x100'; za24_AdPositionNo[20]='1'; 
+//-->
+
+
+
+
+
+
+		(function() {za24_InitAds('200x400','1','/8900/24.com/Web/News24/Homepage','200','400');})();
+	
+
+
+
+
+
+        twttr.conversion.trackPid('l4nol');
+    
+
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+var za24_displayAdUrl = 'https://www.news24.com/static/Ads/DisplayAd.html';//]]>
+
+
+
+
+
+jQuery('head').append("<link href='https://scripts.24.co.za/libs/24com/ads/2.0/Style/TransAd.css?v=31live' type='text/css' rel='stylesheet' ></link>")
+
+
+AdTemplate = "News24";
+
+
+		(function() {za24_InitAds('10x10','1','/8900/24.com/Web/News24/Homepage','10','10');})();
+	
+
+
+
+
+
+
+
+		(function() {za24_InitAds('728x90','1','/8900/24.com/Web/News24/Homepage','728','90');})();
+	
+
+
+
+
+
+
+
+		(function() {za24_InitAds('2x1','1','/8900/24.com/Web/News24/Homepage','2','1');})();
+	
+
+
+
+
+
+
+News24 News. Breaking News. First
+
+LAST UPDATED: 2020-03-02, 16:36
+
+
+
+
+
+We’ve run out of money and options - pensions will bail out Eskom
+It's clear that labour’s defence of jobs will not extend to the heavily bloated SOE management structures, writes Adriaan Basson.
+
+
+
+
+
+
+
+
+
+    var headerSearchUrl = 'https://www.news24.com/search?q={0}'; var headerAdvancedSearchUrl = 'http://googlesearch.news24.com/search?s=NWS&ref=NWS&q='; var txtSearchFieldClientId = "txtSearchField"; var btnSearchClientId = "btnSearch"; function submitSiteSearch() { var a = $j.trim($j("#" + txtSearchFieldClientId).val()); if (a.length > 0) { window.location.href = "/search?q=" + a } };
+
+
+
+
+Cape Town
+
+
+
+
+
+            Tuesday
+            18-25°C
+
+Sunny. Mild.
+
+3 day forecast 
+
+
+
+
+Wednesday
+18-21°c
+
+Afternoon clouds. Cool.
+
+
+Thursday
+19-23°c
+
+More sun than clouds. Mild.
+
+
+Friday
+19-26°c
+
+Morning clouds. Mild.
+
+
+
+
+
+
+
+
+
+More weather from Weather24 >
+
+
+
+
+
+
+		(function() {za24_InitAds('278x35','1','/8900/24.com/Web/News24/Homepage','278','35');})();
+	
+
+
+
+
+
+
+
+
+
+
+
+Brought to
+        you by:
+
+
+
+if(typeof(topStoriesArray)  != 'undefined') topStoriesArray.push({'name':'Cape Town Afternoon clouds. Cool. 18-25','url':'http://weather.news24.com','icon':'/images/icons/Forecasts/4.ico'});
+
+
+News
+South AfricaWorldAfricaEntertainmentGreenHealthLocalPodcastsFeel Good
+Voices
+MyNews24ColumnistsBooksLandisa
+Business
+MarketsPersonal FinanceEconomyOpinionSmall Business FinWeek
+Sport
+NewsRugbyCricketSoccerGolfTennisFormula1Other SportSuperSportLive StreamingVideo Highlights
+Lifestyle
+HealthWomenMotoringFoodTravelEntertainmentParentYouDrumTrueLoveMove!Dating
+Video
+All VideoSouth AfricaEntertainment
+Focus
+Mandela100Cyril100Underworld UnmaskedZimbabweAids FocusGood NewsCompetitions
+JobsPropertyCity PressPartners
+Smoke-free future Backing Tech PotentialThe Future is NowMoney HeroesSponsors of Brave
+
+menuJsonArray = [{"Url":"https://www.news24.com/SouthAfrica","TabLinkIndex":0,"TabLinkToActivate":"tablink0"},{"Url":"https://www.news24.com/World","TabLinkIndex":0,"TabLinkToActivate":"tablink0"},{"Url":"https://www.news24.com/Africa","TabLinkIndex":0,"TabLinkToActivate":"tablink0"},{"Url":"https://www.news24.com/Green","TabLinkIndex":0,"TabLinkToActivate":"tablink0"},{"Url":"https://www.news24.com/podcasts","TabLinkIndex":0,"TabLinkToActivate":"tablink0"},{"Url":"https://www.news24.com/","TabLinkIndex":0,"TabLinkToActivate":"tablink0"},{"Url":"https://www.news24.com/MyNews24","TabLinkIndex":1,"TabLinkToActivate":"tablink1"},{"Url":"https://www.news24.com/Columnists","TabLinkIndex":1,"TabLinkToActivate":"tablink1"},{"Url":"https://www.news24.com/books","TabLinkIndex":1,"TabLinkToActivate":"tablink1"},{"Url":"https://specialprojects.news24.com/landisa/","TabLinkIndex":1,"TabLinkToActivate":"tablink1"},{"Url":"https://www.news24.com/Columnists","TabLinkIndex":1,"TabLinkToActivate":"tablink1"},{"Url":"https://pubads.g.doubleclick.net/gampad/clk","TabLinkIndex":2,"TabLinkToActivate":"tablink2"},{"Url":"http://www.fin24.com","TabLinkIndex":2,"TabLinkToActivate":"tablink2"},{"Url":"http://www.sport24.co.za","TabLinkIndex":3,"TabLinkToActivate":"tablink3"},{"Url":"http://traveller24.news24.com","TabLinkIndex":4,"TabLinkToActivate":"tablink4"},{"Url":"https://www.news24.com/you","TabLinkIndex":4,"TabLinkToActivate":"tablink4"},{"Url":"https://www.news24.com/Drum","TabLinkIndex":4,"TabLinkToActivate":"tablink4"},{"Url":"https://love2meet.news24.com/s/","TabLinkIndex":4,"TabLinkToActivate":"tablink4"},{"Url":"http://www.news24.com/Lifestyle","TabLinkIndex":4,"TabLinkToActivate":"tablink4"},{"Url":"https://www.news24.com/Video/southafrica","TabLinkIndex":5,"TabLinkToActivate":"tablink5"},{"Url":"https://video.channel24.co.za/","TabLinkIndex":5,"TabLinkToActivate":"tablink5"},{"Url":"https://www.news24.com/video","TabLinkIndex":5,"TabLinkToActivate":"tablink5"},{"Url":"https://mandela100.news24.com/","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"https://cyril100.news24.com/","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"http://showcase.news24.com/cape-town-underworld/","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"https://www.news24.com/Content/Africa/Zimbabwe","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"https://www.news24.com/Tags/Topics/good_news","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"https://www.news24.com/competitions","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"https://www.news24.com/SpecialReports","TabLinkIndex":6,"TabLinkToActivate":"tablink6"},{"Url":"http://www.news24.com/Jobs","TabLinkIndex":7,"TabLinkToActivate":"tablink7"},{"Url":"http://www.news24.com/Property","TabLinkIndex":8,"TabLinkToActivate":"tablink8"},{"Url":"http://city-press.news24.com","TabLinkIndex":9,"TabLinkToActivate":"tablink9"},{"Url":"http://pubads.g.doubleclick.net/gampad/clk","TabLinkIndex":10,"TabLinkToActivate":"tablink10"},{"Url":"https://partners.24.com/The-Future-is-Now/index.html","TabLinkIndex":10,"TabLinkToActivate":"tablink10"},{"Url":"https://partners.24.com/Money-Heroes/index.html","TabLinkIndex":10,"TabLinkToActivate":"tablink10"},{"Url":"http://pubads.g.doubleclick.net/gampad/clk","TabLinkIndex":10,"TabLinkToActivate":"tablink10"},{"Url":"","TabLinkIndex":10,"TabLinkToActivate":"tablink10"}];
+
+
+    if ('False' == 'True')
+        document.getElementById('main_nav').style.height = '33px';
+
+
+
+
+
+
+
+		(function() {za24_InitAds('980x90','1','/8900/24.com/Web/News24/Homepage','980','90');})();
+	
+
+
+
+    window.addEventListener("load", function () {
+        setTimeout(function () {
+            var pushdownad = document.querySelector("#pushDownAd");
+            if (parseInt(window.getComputedStyle(pushdownad.firstElementChild)["height"]) > 30) {
+                pushdownad.className = "active";
+            }
+        }, 500);
+    });
+
+
+ 
+
+
+
+
+
+
+
+Cop van petrol bombed, University of Zululand campus shut down after protests turn violent
+
+
+48 minutes ago
+
+
+A police van was petrol bombed after protests turned violent at the University of Zululand in KwaZulu-Natal.
+
+
+
+
+11 arrested during protests at Fort Hare's Alice campus, students claim police brutality
+
+TUT academic activities suspended amid student protests
+
+Fort Hare's Alice campus' academic programme disrupted following protests
+
+
+
+South Africa
+Man found guilty of raping, killing woman whose body was found in maintenance shaft
+
+
+33 minutes ago
+
+
+The man accused of raping and murdering a woman before hiding her body in a maintenance shaft in the Department of Agriculture, Forestry and Fisheries building in Tshwane in 2017 has been found guilty in the Gauteng High Court in Pretoria.
+
+
+Man who allegedly raped, and murdered woman and hid body in building was on parole
+
+Man arrested for murder of woman whose decomposed body was found in chimney of govt building
+
+KZN man sentenced to two life terms for rape and murder
+
+
+
+South Africa
+UPDATE: 21 killed in horror Eastern Cape bus crash 
+
+
+2020-03-02 12:30
+
+
+At least 21 people have been killed in a bus accident in the Eastern Cape, the Road Traffic Management Corporation says.
+
+
+
+
+Joburg flash floods: Pupils rescued from bus, authorities on high alert
+
+'You must move!' - Three bus drivers injured as Cape transport crisis shifts to Nyanga
+
+WATCH | Cape Town taxi crammed with school kids crashes into MyCiTi bus, injuring 26
+
+
+
+South Africa
+Doubts around whether Jacob Zuma will attend KZN SOPA
+
+
+49 minutes ago
+
+
+Former president Jacob Zuma's attendance at the State of the Province Address in his home province of KwaZulu-Natal this week is in doubt, his close allies have said.
+
+
+Zuma won’t attend Sona
+
+Zuma arrest warrant: Niehaus, Masina, ANCYL in KZN express anger over treatment of their 'hero'
+
+Three spy organisations planned to finish me off, Zuma tells supporters
+
+
+
+
+
+
+
+
+
+
+Bulls evict spectators after crowd violence incident at Loftus
+
+
+
+
+
+
+
+
+FEEL GOOD | How this local teacher uses drama therapy to help children learn
+
+
+
+
+
+
+
+PODCAST | THE STORY: Ramaphosa Jr, Bosasa and the missing million
+
+
+
+
+
+
+
+Eco-Travel Itineraries: Make Greta Thunberg proud with these green trips to SA's cities
+
+
+
+
+
+
+		(function() {za24_InitAds('300x81','1','/8900/24.com/Web/News24/Homepage','300','81');})();
+	
+
+ 
+
+South Africa
+Basketball coach charged with murder of missing Hout Bay boy after 'full confession'
+
+
+2020-03-02 13:29
+
+
+A basketball coach has been charged with the murder of Sibusiso Dakuse, the 12-year-old Hout Bay boy who was found dead after he went missing.
+
+
+Body of missing Hout Bay boy, 12, found near his home - report
+
+Body of missing Tulbagh boy, 7 found, man arrested
+
+Man arrested after Cape Town boy, 12, goes missing
+
+
+
+
+
+
+
+		(function() {za24_InitAds('300x250','2','/8900/24.com/Web/News24/Homepage','300','250');})();
+	
+
+
+
+
+
+    articleID = 'f6c3979a-7e4c-4353-be30-d2495b3e15dc';
+
+
+
+
+            Voting Booth
+
+            The Proteas scored an impressive win in the opening ODI against Australia. How do you see the remainder of the three-match series pan out?
+
+
+
+3-0 series win for SA
+
+
+
+2-1 for Australia
+
+
+
+2-1 for SA
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    3-0 series win for SA
+                                    
+                                        5%
+                                        289
+                                        votes
+
+
+
+                                        5 
+
+
+
+
+
+
+
+
+                                    2-1 for Australia
+                                    
+                                        55%
+                                        2900
+                                        votes
+
+
+
+                                        55 
+
+
+
+
+
+
+
+
+                                    2-1 for SA
+                                    
+                                        40%
+                                        2098
+                                        votes
+
+
+
+                                        40 
+
+
+
+
+ 
+
+
+
+
+Previous Results · 
+                Suggest a vote
+
+
+
+		(function() {za24_InitAds('278x35','2','/8900/24.com/Web/News24/Homepage','278','35');})();
+	
+
+
+
+
+
+
+
+
+
+News you should know
+
+There is need to prepare for a pandemic, says WHO director, but global markets should calm down
+Gauteng police arrest suspects, recover 18 unlicensed firearms in weekend operation
+Blitzboks sneak past USA to set up New Zealand semi-final in LA
+Pope Francis cancels planned retreat due to 'cold'
+WATCH: Stand-off between cops and Cape Town refugees after they move to second church
+Experts on expat tax: Too little, too late, Tito
+Farmworker ‘sexually involved’ with farmer she is accused of killing
+Coronavirus: 121 in SA tested thus far and still no cases, assures Mkhize
+China's air pollution dropped dramatically after coronavirus lockdown
+Solly Moeng | SA must speak up on coronavirus crisis management
+All crew members have left virus-hit ship in Japan: Minister
+SSA denies clearance for two former ministers meant to serve as SA envoys - report
+Pam Golding Properties in hot water over sale of houses to ex-Mozambican president's family
+Coronavirus repatriation: This is SA's plan to quarantine 151 citizens returning from Wuhan
+'She is dead, and it is painful' - Tazne van Wyk's distraught grandmother at final farewell
+
+
+
+
+
+
+South Africa
+Coronavirus: International conference cancelled in Cape Town in 'unprecedented' move
+
+
+2020-03-02 13:25
+
+
+An international conference that was expected to host accountants and lawyers in Cape Town has been cancelled as security is upped amid increasing fears of a global spread of the coronavirus.
+
+
+Global coronavirus death toll passes 3 000 with new China count
+
+Covid19: SA citizens in Wuhan heading back home - how ready is SA?
+
+Coronavirus enigma: Experts ask why Africa seems to have few cases
+
+
+
+City Press
+‘They have disconnected my electricity … how am I expected to make money and pay Eskom?’
+
+
+2020-03-02 13:01
+
+
+Cutting a forlorn figure behind the shop counter against the backdrop of almost empty shelves, Mokgasi Mofokeng’s woebegone countenance and a R100 000 Eskom bill in front of him sum up his story of misery.
+
+
+Sowetans cut off by Eskom have to make their meagre resources go a lot further
+
+ANC, Sanco in Soweto serve Eskom with demands
+
+EFF marches aginst load shedding and privatisation of Eskom 
+
+
+
+
+
+        $j(document).ready(function () {
+            var updatedTime = '02 March 2020, 16:36';
+            $j("div#dtLastUpdated").text("LAST UPDATED: " + updatedTime);
+        });
+    
+
+
+
+
+
+
+
+South Africa
+Police move in once again to move refugees from a Cape Town park
+
+            2020-03-02 14:05
+
+Law Enforcement officials keep an eye on a group of refugees and prepare to once again move them, this time from a park in central Cape Town.
+
+
+More in this section
+
+
+Mpumalanga cops make 'breakthrough' in robberies with arrest of three 'bogus cops'
+
+
+Refugee mother still waiting for nine months of child grants after Sassa card stolen
+
+
+WATCH | Nowhere to go: Refugees removed from second church in Cape Town
+
+
+Body of missing Hout Bay boy, 12, found near his home - report
+
+
+Tongaat man arrested for stabbing 31-year-old woman
+
+
+DA's Joburg chairperson and former CEO join Herman Mashaba's People's Dialogue
+
+
+
+
+
+
+Africa
+Egypt detects second coronavirus case
+
+            2020-03-02 13:52
+
+Egypt on Monday reported its second case of novel coronavirus, more than two weeks after announcing the first confirmed infection in Africa.
+
+
+More in this section
+
+
+Coronavirus enigma: Experts ask why Africa seems to have few cases
+
+
+'Nigeria will deal with this': High alert after coronavirus case
+
+
+Group of Canadian charity workers detained in Ethiopia
+
+
+Nigeria relocates Italian coronavirus patient for better health care
+
+
+Mozambique investigates beheadings by suspected jihadists
+
+
+African Union recalls observer team for Guinea vote
+
+
+
+
+Video
+
+
+
+WATCH | Nowhere to go: Refugees removed from second church in Cape Town
+
+
+
+WATCH | Coronavirus: Government provides details on repatriation of SA citizens from Wuhan
+
+
+
+PODCAST | THE STORY: Ramaphosa Jr, Bosasa and the missing million
+
+
+
+WATCH | Zondo commission to hear law enforcement-related testimony
+
+
+
+
+
+World
+Chinese man sentenced to death for virus checkpoint killing
+
+            2020-03-02 13:15
+
+A Chinese court has sentenced a man to death for fatally stabbing two officials at a checkpoint set up to control the spread of the new coronavirus outbreak.
+
+
+More in this section
+
+
+EU and UK begin talks on post-Brexit relationship
+
+
+Surprise hit 'Mayor Pete' Buttigieg ends White House bid
+
+
+Global coronavirus death toll passes 3 000 with new China count
+
+
+US Supreme Court to hear high-stakes abortion case
+
+
+China recovery begins | US Dems march: WATCH the top world news videos for today
+
+
+Second man dies of coronavirus in US
+
+
+
+
+
+
+Sport24
+Verreynne in dreamland after Proteas debut, India call-up
+
+            51 minutes ago
+
+Kyle Verreynne has arrived onto the international stage and his first impression was a good one during the first ODI against Australia.
+
+
+More in this section
+
+
+Daniel Akpeyi has 'unbelievable character', says Middendorp
+
+
+Budapest to host 2022 Europa League final
+
+
+This week's SA Super Rugby gold goes to ... Lukhanyo Am
+
+
+Everitt heaps praise on 'tight' Sharks 
+
+
+Faf makes Proteas ODI return, Linde set for debut in India
+
+
+Proteas rich in match winners after Wolvaardt heroics
+
+
+Massive blow for Stormers as Pieter-Steph goes under the knife
+
+
+
+
+
+
+Business
+Rand stronger, stocks rebound after mass sell-offs on coronavirus fears
+
+            14 minutes ago
+
+The rand moved 1.1% stronger in early trade on Monday, as markets appear to be taking a "breather" from the sell-off from the previous week, says an analyst.
+
+
+More in this section
+
+
+Jack Welch, former head of GE, dies at 84
+
+
+Ramaphosa says key state wage bill savings will stem from lower wage growth, not job cuts
+
+
+SA fuel prices to fall as coronavirus forces oil price slump
+
+
+Sugar sweetens interim results for Selati, Rainbow Chicken owner RCL Foods
+
+
+Sea Harvest revenue jumps 54% 
+
+
+Budget 2020 in a nutshell | No major tax changes and ambitious proposal to cut state wage bill
+
+
+Nearly 200 jobs affected as Ellies Electronics announces restructuring
+
+
+
+
+
+
+
+Fin24Budget 2020Columnists Latest Business News 
+
+
+
+Cape Town is getting apartments the size of 1.5 parking spaces – for R1.35 million each
+
+            2020-03-02 15:12
+
+The micro-apartments, in Cape Town’s Southern suburbs, will be sold at R46,500 a square metre.
+
+
+More in this section
+
+
+New rewards and more international partners: how Mango’s CEO plans  to overtake FlySafair
+
+
+What to buy for your home emergency kit if you're quarantined during the coronavirus outbreak
+
+
+Virgin Active doesn’t want an ‘unprecedented internationally’ fitness regulator in SA
+
+
+Almost R1 trillion was wiped off the South African market last week
+
+
+Nike closed its worldwide headquarters for deep-cleaning after a coronavirus death in the US
+
+
+There is need to prepare for a pandemic, says WHO director, but global markets should calm down
+
+
+Three died after dry ice was poured into a pool at an Instagram celeb’s birthday party in Moscow
+
+
+
+
+
+
+Entertainment
+From the big screen to the big stream: 3 shows based on movies to watch tonight
+
+            6 minutes ago
+
+Sometimes movies are so good the story has to continue and what better way than a television series. Here are three shows to watch tonight. 
+
+
+More in this section
+
+
+Lance 'Big Daddy' James' career in 14 photos
+view
+
+
+Demi-Leigh shares first glimpse behind-the-scenes of 'Supergirl' filmed in Bolivia in 6°c weather!
+
+
+Hilary Duff writes open letter to Disney after they stop filming on 'Lizzie McGuire'
+
+
+South African country singer Lance James, 81, dies 
+
+
+We attended a polo match with Jessica Nkosi and Thapelo Mokoena and this is how it went down
+
+
+Meghan Markle may make her next big appearance post-royal life at this major event
+
+
+10 times Meghan Markle was unapologetically herself – and a total badass!
+
+
+
+
+
+
+
+
+
+
+‘You fired the wrong man’: Officials scramble over R32m RDP tender
+
+            7 minutes ago
+
+A Mpumalanga forensic investigator found out that procurement procedures may have been flouted in the awarding of an RDP housing tender worth R32 million and exposed it.
+
+
+More in this section
+
+
+When a president, premier and finance minister are forced to run
+
+
+We will target the growth of wages in public sector, not jobs – Ramaphosa
+
+
+Will Cyril Ramaphosa blink on wage bill after pressure from Cosatu?
+
+
+Malema sues Mamabolo for R2 million
+
+
+A climate of fear at Acsa: Staff member killed ‘to silence him’
+
+
+Aviation authority report blames human error for crash but some experts are not convinced
+
+
+
+
+
+
+
+
+
+
+Tech
+Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI
+
+            2020-03-01 15:14
+
+Researchers have found AI tools often misclassify people's gender — especially if they're women of color.
+
+
+More in this section
+
+
+The pope has joined with Microsoft and IBM to create a doctrine for ethical AI
+
+
+The year's biggest video game development trade show is 'postponed' due to coronavirus concerns
+
+
+Facebook is redesigning Messenger to prioritise Stories – copying Instagram's best feature
+
+
+Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works
+
+
+China's groundbreaking lunar rover found nearly 12 metres of dust on the far side of the moon
+
+
+Apple's budget iPhone XR was the most popular phone in the world in 2019, figures suggest
+
+
+There may be no way to use Google apps such as Maps and Gmail on new Huawei phones after all
+
+
+
+
+
+
+
+
+
+
+Green
+Eco-Travel Itineraries: Make Greta Thunberg proud with these green trips to SA's cities
+
+            2020-03-02 04:45
+
+Check out these stays, foodie spots, activities and markets  in Cape Town, Durban and Joburg to ensure you keep your footprint small while on a trip to our major cities.
+
+
+More in this section
+
+
+China's air pollution dropped dramatically after coronavirus lockdown
+
+
+Eco-Travel Itinerary: What to see and do in the world's greenest city
+
+
+Table Mountain cableway company is taking on a mountain of waste
+
+
+WATCH | Albino baby elephant Khanyisa is doing all the cute things at SA orphanage
+
+
+PICS | 'Buffel' the elephant seal spotted in Cape Point for annual molt
+
+
+A climate change denial group has hired a German YouTuber to challenge Greta Thunberg
+
+
+Sherpa team aims for record Everest winter ascent - last achieved in 1993
+
+
+
+
+
+
+MyNews24
+Want to submit an article or letter? Here's how
+
+            2019-05-22 10:11
+
+
+
+
+More in this section
+
+
+We must come up with practical ways to keep our schools safe
+
+
+Young South Africans speak: Why we are leaving the country
+
+
+Take leftist posturing over DA leadership contest with a shaker of salt
+
+
+Bleak future for young people if Ramaphosa can't deliver on his promises
+
+
+Don't let Malema divert attention from where it's needed most
+
+
+SONA: Slow pace of implementation eroding public’s confidence in the government
+
+
+
+
+
+
+Voices
+Herman Mashaba: Race has no place in the corruption debate 
+
+            2020-03-02 14:26
+
+The fight against corruption is noble, whether it is pursued by a black person or a white person. When public money is stolen, it is taken from the many pressing needs that exist in South Africa, writesHerman Mashaba.
+
+
+
+More in this section
+
+
+Mmusi Maimane: 'Two South Africas' divide best illustrated by our transport system
+
+
+Adriaan Basson: We’ve run out of money and options - pensions will bail out Eskom
+
+
+Rich Mkhondo: Remembering the ambitious, inspiring, pioneering, enterprising and gifted Shaun Johnson
+
+
+OPINION | SA is nearing an economic abyss and we must admit we are in a crisis
+
+
+OPINION: What does the Budget speech mean for social cohesion?  
+
+
+Friday Briefing: State’s plan to slash public sector wage bill sets up showdown with unions
+
+
+OPINION | Coronavirus: Why I'm staying put in China, despite the SA government wanting me to leave
+
+
+
+ More voices An entrepreneur's guide to running a clean businessDaniel Silke: The politics behind Ramaphosa's stimulusBOOK REVIEW: Don't just trust your gut - make better decisions when stakes are high
+
+
+
+
+
+
+News24 wants your Feel Good stories!
+Have you got a Feel Good story to tell? We want to hear it. If you'd just like to read about the good South Africans are doing daily, head over to our Feel Good section!
+
+
+
+
+Special focus
+
+
+
+David Beckham's sweet keepsake
+A special item Victoria gave him 22 years ago. 
+
+
+
+
+Coronavirus threatens shows in fashion capitals
+As China's biggest client, the fashion industry is in panic.
+
+
+
+
+5 white sneaker cleaning myths
+ They are actually ruining your precious shoes.
+
+
+
+
+'The Bachelor SA': Nolo gives her side
+Here's what went down between Bridget and Nolo.
+
+ 
+
+
+
+Celebrate #NationalMilkTartDay with this milk tart caramel cheesecake recipe
+
+
+
+
+
+New buying patterns
+Here's why most South Africans buy compact SUVs in the R320k-mark.
+
+
+
+
+First baby born from IVM
+The process of lab-matured frozen egg, induced in a laboratory, has been shown to work.
+
+
+
+
+WATCH | Leopard snatches crocodile's meal right from its mouth
+That's some determination!
+
+ 
+
+
+
+
+
+
+health24
+Don't try to kick the smoking habit alone
+
+
+
+Smokers typically try quitting eight to 10 times before succeeding. However, the more times they try to quit, the more successful they might be in the future.  
+
+
+More in this section
+
+
+Hiding your feelings at work can lead to poor productivity
+
+
+Are you a narcissist?
+
+
+A US city's short-lived 'soda tax' cut consumption and raised nearly R1 billion
+
+
+Coronavirus: How behaviour can help control the spread of COVID-19
+
+
+WATCH | Can being 'too clean' cause allergies?
+
+
+WATCH | Some tips on using a nasal spray correctly, making it more comfortable
+
+
+Pollen allergies: These are the common trees, grasses and plants to avoid in SA
+
+
+
+
+
+
+
+
+Health News
+
+FAQs about constipation
+Facts about flu shots
+Workplace mental health
+
+
+
+
+
+
+Wheels24
+SPOTTED | 2021 Mercedes-Benz C-Class
+
+
+The upcoming Mercedes-Benz C-Class has been spotted testing in South Africa. The new W206 model is scheduled to be unveiled at the Paris motor show in October. 
+
+
+More in this section
+
+
+How the coronavirus is crippling the car industry
+
+
+Svelte Swede - Volvo's XC60 is hard to fault
+
+
+Merc's forthcoming GLA 45 is AMG’s 270km/h compact crossover!
+
+
+Formula 2 driver quarantined in Spanish hotel following coronavirus outbreak
+
+
+MotoGP season-opening Qatar race canceled and Thailand GP postponed over coronavirus
+
+
+Mitsubishi's new Outlander now standard with plenty of tech and a substantially revised package
+
+
+Ferrari playing games, Mercedes vulnerable... Conclusions from F1 pre-season testing
+
+
+
+
+
+
+
+What's new on Wheels24Latest in new modelsFormula 1Galleries and videos
+
+
+
+W24
+OPINION | When tertiary qualifications fail to secure jobs for women who've been told education is the doorway out of poverty, is there any hope for us?
+
+
+
+We have an employment crisis and it doesn't seem to be due to a shortage of qualified candidates.
+
+
+More in this section
+
+
+Your 2020 forecast: Aquarius (Jan 20 - Feb 18)
+
+
+OPINION: Zozibini Tunzi has left the door open for all of us to walk through
+
+
+10 ways you can make new friends before the year ends
+
+
+Statement hats for when you want to turn heads this summer
+
+
+Gauteng woman marries herself, plus here are 9 other women who’ve married themselves
+
+
+A grave mistake: Bridal gown designer gets social media backlash for photo shoot at a Christian cemetery
+
+
+Kim Kardashian unveils new SKIMS boob tape after years of using duct tape. Here's where you can shop similar cleavage hacks
+
+
+
+
+
+
+
+W24 - Your Life. Your StyleWeekly soapie updates Relationship adviceBest diet tips
+
+
+
+Travel
+From R3K to R20K a night: How much it costs to stay in SA's top voted luxury hotels 
+
+
+
+The Hospitality Counsel recently hosted their annual Hosco-Audi Luxury Tourism Awards at the stunning Riva Townhouse in Jozi.
+
+
+More in this section
+
+
+Louvre in Paris shuts doors due to coronavirus fears - plus more abandoned tourist attractions 
+
+
+Yoshi the turtle has made it to Australia with a record journey of 37 000km!
+
+
+13 Islands where you can feel completely deserted
+
+
+Eco-Travel Itineraries: Make Greta Thunberg proud with these green trips to SA's cities
+
+
+PODCAST: Adventurer Mike Horn on his pole 2 pole crossing, 'When you drill holes in your frozen toenails you're out of your comfort zone'
+
+
+WATCH | Leopard snatches crocodile's meal right from its mouth
+
+
+PICS | Elephant bull ‘jumps’ over camp wall like pro hurdler 
+
+
+
+
+
+
+
+Travel with usNewsFamily HolidaysTravel Planning 
+
+
+
+Parent24
+5-year-old dubbed honorary firefighter for saving both his sister and dog's lives when a fire broke out
+
+
+
+Noah Woods, 5, from Georgia, America has been dubbed an honorary firefighter.
+
+
+More in this section
+
+
+FEEL GOOD | How this local teacher uses drama therapy to help children learn
+
+
+OPINION: 'Our education sector is in crisis'
+
+
+Siya Kolisi is in the 3% of SA parents who have tattoos of their kids' faces on their bodies
+
+
+I think my child has outgrown their food allergy. How can I be sure?
+
+
+Local expert warns parents about effects of posting their children’s videos on the internet
+
+
+Who assumes responsibility for a child at school?
+
+
+How hard is it to say ‘no’ to drugs?
+
+
+
+
+
+
+
+Great parenting toolsBaby namesFree School Resources It's storytime! Free books for kids 
+
+
+
+Partner Content
+Safety24: Your guide to being safe 24/7
+
+
+
+Welcome to Safety24, where we explore the latest trends in the fields of road safety, home safety and personal safety.
+
+
+More in this section
+
+
+Sponsors of Brave: Nominate your unsung hero and WIN R5000
+
+
+Sponsors of Brave celebrates the unsung heroes of SA's health sector
+
+
+Watch: Money Heroes unpack the reality of unemployment in SA
+
+
+How one woman created over 15000 jobs for other women
+
+
+Meet 6 entrepreneurs disrupting their way to success
+
+
+Money Heroes: Pro tips on money saving
+
+
+Money Heroes: Strengthen your financial decisions
+
+
+
+BrandStudioBrandStudio.24Native Advertising Join us on social media
+
+
+
+Food24
+Roasted carrot hotdogs with basil sauce and red cabbage salsa
+
+
+
+A delicious plant based recipe for vegans and vegetarians.
+
+
+More in this section
+
+
+How to make the perfect banana bread
+
+
+Different types of icing: The comprehensive guide every baker needs
+
+
+Milk tart cheesecake with rum caramel
+
+
+Milk tart twists: 7 novel ways to enjoy this classic dessert 
+
+
+Know your tomato products and which to use when
+
+
+Tips to avoid a stinky lunchbox in an open-plan office
+
+
+7 Mouthwatering dessert recipes from YOU Magazine
+
+
+
+
+
+
+
+What's cooking on Food24Bacon and egg bunny chowHot new Joburg restaurants5 places to do brunch in PE
+
+
+
+Careers24
+Free K53 Help Guides For All South Africans
+
+
+
+
+
+
+More in this section
+
+
+When is the right time to quit your job?
+
+
+How to stop being your own worst enemy
+
+
+A checklist to ensure you’ll start your new job on the right note
+
+
+The ultimate guide to finding a job you'll love
+
+
+8 things you should never say before you’re hired
+
+
+5 noteworthy questions to definitely ask the interviewer
+
+
+Why a career change could make you happier...and when to take the leap
+
+
+
+Find your dream job with Careers24Sign up for job alertsUpload your CVSearch 1000s of jobs
+
+
+Property24
+6 modern estate homes in Gauteng's East Rand from R4.45m
+
+
+
+Combining style and modern convenience, these homes in Joburg’s Kempton Park, Benoni, Eikenhof, Alberton and more, offer blissful family living…
+
+
+More in this section
+
+How to challenge an unfair decision made by your community scheme
+Affordable UK investments: 3 new property concepts
+Plenty of action and well-priced homes in Sunset Beach’s luxury market
+Western Cape estate living: 6 curated lifestyles and what you’ll pay
+5 life hacks to keep your cool during load shedding
+SA’s first fully integrated mixed-income housing development 
+These are the top 4 lifestyle estates in Pretoria East
+
+
+
+
+
+
+
+
+
+
+
+
+    var tabsClass = { tabSetArray: new Array, classOn: "tabs_on", classOff: "tabs_off", addTabs: function (a) { tabs = document.getElementById(a).getElementsByTagName("div"); for (x in tabs) { if (typeof tabs[x].id != "undefined") { this.tabSetArray.push(tabs[x].id) } else { } } }, switchTab: function (a) { for (x in this.tabSetArray) { tabItem = this.tabSetArray[x]; dataElement = document.getElementById(tabItem + "_data"); if (dataElement) { if (dataElement.style.display != "none") { dataElement.style.display = "none" } else { } } else { } tabElement = document.getElementById(tabItem); if (tabElement) { if (tabElement.className != this.classOff) { tabElement.className = this.classOff } else { } } else { } } document.getElementById(a.id + "_data").style.display = ""; a.className = this.classOn } }
+
+
+
+
+
+
+
+Most Read
+News In Your Area
+Top Lifestyle
+
+
+
+
+
+
+
+UPDATE: 21 killed in horror Eastern Cape bus crash 
+#MyTruth - 'I asked my husband to bring another woman into our marriage, when he did I got jealous'
+Blitzboks stun Fiji with incredible comeback to win LA Sevens
+Coronavirus enigma: Experts ask why Africa seems to have few cases
+'He took a R14 000 flight to see me for our first date, then he asked me to move to Scotland with him'
+
+
+More..
+
+
+[change area]
+News in Cape Town
+
+
+Police move in once again to move refugees from a Cape Town park
+Basketball coach charged with murder of missing Hout Bay boy after 'full confession'
+Coronavirus: International conference cancelled in Cape Town in 'unprecedented' move
+WATCH | Nowhere to go: Refugees removed from second church in Cape Town
+Du Toit hammer blow: Wiese's chance to lift stocks?
+
+
+
+
+Eco-Travel Itineraries: Make Greta Thunberg proud with these green trips to SA's cities
+Bride who punched sister-in-law at wedding wants to win her husband back
+French film about a lesbian love story features no men - cast and director explain why
+Actress Shonisani Masutha launches a braid collection: 'I wanted to be more than just the face'
+Different types of icing: The comprehensive guide every baker needs
+
+
+
+                        tabsClass.addTabs("mostTabContainer");
+			        
+
+
+
+
+
+
+
+		(function() {za24_InitAds('278x100','1','/8900/24.com/Web/News24/Homepage','278','100');})();
+	
+
+
+
+
+
+
+
+
+ 
+
+
+		(function() {za24_InitAds('300x600','1','/8900/24.com/Web/News24/Homepage','300','600');})();
+	
+
+ 
+
+
+                window._brandmetrics = window._brandmetrics || [];
+                window._brandmetrics.push({ cmd: "_loadsurvey" });
+            
+
+ 
+
+
+		(function() {za24_InitAds('333x250','1','/8900/24.com/Web/News24/Homepage','333','250');})();
+	
+
+ 
+
+inside news24
+
+
+
+
+
+
+
+
+
+
+WATCH | Leopard snatches crocodile's meal  
+
+
+                                            ...right from its mouth.
+                                        
+
+
+
+
+
+
+
+
+
+One-trick pony 
+
+
+                                            This Jeep is achingly fast in a straight line, but that's about it.
+                                        
+
+
+
+
+
+
+
+
+
+Does marriage end love? 
+
+
+                                            'We got married and 6 months later I wanted a divorce' 
+                                        
+
+
+
+
+
+
+
+
+
+Prince Harry shrugs off royal title 
+
+
+                                            'Call me Harry'
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Buffel' the elephant seal spotted in Cape Point 
+
+
+                                            He's once again made an appearance for his annual molt. 
+                                        
+
+
+
+
+
+
+
+
+
+12 quotes from Katherine Johnson 
+
+
+                                             The great mathematician died at 101.
+                                        
+
+
+
+
+
+
+
+
+
+Harry and Meghan's Spring transition  
+
+
+                                            Here are 7 things you need to know. 
+                                        
+
+
+
+
+
+
+
+
+
+The best hotel views in SA that can rival the Ritz 
+
+
+                                            A room with a (spectacular) view. 
+                                        
+
+
+
+
+
+
+ 
+
+
+
+< prev next >
+
+  
+
+
+
+
+
+
+
+
+		(function() {za24_InitAds('300x35','1','/8900/24.com/Web/News24/Homepage','300','35');})();
+	
+
+
+
+
+    $j(document).ready(function () { $j(".inside_news_link_wrap").each(function () { var height = $j(".inside_news_link", this).height(); $j(this).css("top", 120 - height); }); $j('#slider-code').tinycarousel({ pager: true }); });
+    $j('.img_wrap').hover(function () { var height = $j(".inside_news_synopsis", this).height() + $j(".inside_news_link", this).height(); $j(".inside_news_link_wrap", this).animate({ top: (120 - height) + 'px' }, 150); });
+    $j('.img_wrap').mouseleave(function () { var height = $j(".inside_news_link", this).height(); $j(".inside_news_link_wrap", this).animate({ top: (120 - height) + 'px' }, 150); });
+
+ 
+
+    var tabsFinancialClass = { tabFinancialSetArray: new Array, classOn: "tabs_on left", classOff: "tabs_off left", addTabs: function (a) { tabs = document.getElementById(a).getElementsByTagName("li"); for (x in tabs) { if (typeof tabs[x].id != "undefined") { this.tabFinancialSetArray.push(tabs[x].id) } else { } } }, switchTab: function (a) { for (x in this.tabFinancialSetArray) { tabItem = this.tabFinancialSetArray[x]; dataElement = document.getElementById(tabItem + "_data"); if (dataElement) { if (dataElement.style.display != "none") { dataElement.style.display = "none" } else { } } else { } tabElement = document.getElementById(tabItem); if (tabElement) { if (tabElement.className != this.classOff) { tabElement.className = this.classOff } else { } } else { } } document.getElementById(a.id + "_data").style.display = ""; a.className = this.classOn } }
+
+
+
+
+
+
+Indicators
+JSE Indexes
+
+
+
+
+
+
+
+
+
+
+
+Price
+%
+Change
+
+
+Rand/$
+15.68
+
+0,47%
+
+
+Rand/£
+20.03
+
+0,7%
+
+
+Rand/€
+17.44
+
+-0,2%
+
+
+Gold/oz
+$1600.68
+
+1,1%
+
+
+All-share index
+52079.95
+
+2,04%
+
+
+Brent Crude Oil
+48.55
+
+0%
+
+
+
+
+
+All JSE data delayed by at least 15 minutes 
+
+
+ Johannesburg Stock Exchange Indexes 
+
+
+ 
+Price
+Change
+% Change
+
+
+
+All Share
+52079,95
+1041.77
+2,04%
+
+
+
+Top 40
+46837,69
+985.93
+2,15%
+
+
+
+Financial 15
+13654,06
+102.24
+0,75%
+
+
+
+Industrial 25
+67621,86
+1491.91
+2,26%
+
+
+
+Resource 10
+43287,37
+1289.26
+3,07%
+
+
+
+All JSE data is delayed by at least 15 minutes 
+
+
+
+                    tabsFinancialClass.addTabs("financialTabContainer");
+		        
+
+
+
+
+
+
+
+		(function() {za24_InitAds('300x87','1','/8900/24.com/Web/News24/Homepage','300','87');})();
+	
+
+
+
+
+
+
+
+    $j(document).ready(function () {
+        $j("a.tip[title]").tooltip({ effect: 'slide', offset: [-10, -50] }).dynamic({ bottom: { direction: 'down', bounce: true } });
+    });
+
+
+
+
+		(function() {za24_InitAds('300x250','1','/8900/24.com/Web/News24/Homepage','300','250');})();
+	
+
+
+
+
+Traffic Alerts
+
+
+
+
+
+Please Select a Region
+Gauteng
+KwaZulu-Natal
+Western Cape
+Free State
+Mpumalanga
+Eastern Cape
+Limpopo
+Northern Cape
+North West
+
+
+
+
+
+Traffic
+
+
+
+
+Milnerton
+16:48 PM
+
+Road name: N7 Southbound
+Southbound
+
+
+
+
+
+Fish Hoek
+16:43 PM
+
+Road name: Main Road Northbound
+Northbound
+
+
+
+
+More traffic reports
+
+
+
+
+
+		(function() {za24_InitAds('278x35','4','/8900/24.com/Web/News24/Homepage','278','35');})();
+	
+
+
+
+
+
+
+
+
+
+One Daily Lotto player just got R250K richer
+2020-03-01 21:21
+Click here for the full list of lottery results
+
+
+ 
+
+
+
+Jobs in Cape Town
+[change area]
+
+
+
+Jobs in Western Cape region
+
+Data scientist
+
+Western CapeOfferZen (Pty) Ltd
+
+
+
+Browse more Cape Town jobs...
+
+
+
+
+
+
+                                    Port Elizabeth Jobs
+                                
+
+
+
+                                    Bloemfontein Jobs
+                                
+
+
+
+                                    Gauteng Jobs
+                                
+
+
+
+
+
+
+
+                                    Construction Jobs
+                                
+
+
+
+                                    Legal Jobs
+                                
+
+
+
+                                    Admin Jobs
+                                
+
+
+
+
+
+
+Register your CV...
+Get Job alerts in your e-mail...
+RECRUITERS – Advertise your jobs here
+
+
+
+
+
+
+Property
+[change area]
+
+
+
+
+
+
+
+
+
+
+HOUSES FOR SALE IN Durbanville, Vierlanden
+Houses
+R 5 500 000
+
+
+
+
+
+
+
+
+
+
+HOUSES FOR SALE IN Durbanville, Sonstraal Heights
+Houses
+R 2 395 000
+
+
+
+
+
+
+
+
+
+
+HOUSES FOR SALE IN Paarl, Paarl South
+Houses
+R 2 630 000
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+Horoscopes
+ 
+
+ Aquarius 
+ 
+
+ Pisces 
+ 
+
+ Aries 
+ 
+
+ Taurus 
+ 
+
+ Gemini 
+ 
+
+ Cancer 
+ 
+
+ Leo 
+ 
+
+ Virgo 
+ 
+
+ Libra 
+ 
+
+ Scorpio 
+ 
+
+ Sagittarius 
+ 
+
+ Capricorn 
+
+ 
+
+    var DateTabsClass = { tabSetArray: new Array, classOn: "tabs_on", classOff: "tabs_off", addTabs: function (a) { tabs = document.getElementById(a).getElementsByTagName("div"); var b = 0; var c = Math.floor(Math.random() * 2); for (x in tabs) { if (typeof tabs[x].id != "undefined") { tabElement = document.getElementById(tabs[x].id); tabElement.className = this.classOff; if (b == c) { jQuery("#" + tabs[x].id + "_data").show(); if (tabElement) { tabElement.className = this.classOn } else { } } this.tabSetArray.push(tabs[x].id); b++ } else { } } }, switchTab: function (a) { for (x in this.tabSetArray) { tabItem = this.tabSetArray[x]; dataElement = document.getElementById(tabItem + "_data"); if (dataElement) { if (dataElement.style.display != "none") { dataElement.style.display = "none" } else { } } else { } tabElement = document.getElementById(tabItem); if (tabElement) { if (tabElement.className != this.classOff) { tabElement.className = this.classOff } else { } } else { } } document.getElementById(a.id + "_data").style.display = ""; a.className = this.classOn } }
+
+
+
+
+
+
+
+MenWomenSearch
+
+
+
+
+
+
+
+
+
+
+
+
+
+JesusLover1980
+
+I'm a 40 year old man looking to meet women between the ages of 25 and 33.
+View profile
+
+
+
+
+
+
+
+
+Stephan911
+
+I'm a 31 year old man looking to meet men between the ages of 20 and 35.
+View profile
+
+
+
+
+
+
+
+
+MensennHalf
+
+I'm a 45 year old man looking to meet women between the ages of 25 and 40.
+View profile
+
+
+
+View More...
+
+
+
+
+
+
+
+
+
+
+Natural321
+
+I'm a 49 year old woman looking to meet men between the ages of 46 and 56.
+View profile
+
+
+
+
+
+
+
+
+appeltjie775
+
+I'm a 40 year old woman looking to meet men between the ages of 30 and 40.
+View profile
+
+
+
+
+
+
+
+
+RomantieseSiel
+
+I'm a 42 year old woman looking to meet men between the ages of 41 and 49.
+View profile
+
+
+
+View More...
+
+
+
+
+
+                        DateTabsClass.addTabs("dateLabTabContainer");
+                    
+
+
+
+Love 2 Meet
+
+
+ 
+
+
+Follow News24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Get news delivered directly to your inbox
+Sign up here for News24's newsletters.
+
+ 
+
+ 
+
+services
+
+
+Press Code
+        We subscribe to the Press Code.
+        
+
+
+
+E-mail Newsletters
+        You choose what you want 
+        
+
+
+
+News24 on Android
+        Get the latest from News24 on your Android device.
+        
+
+
+
+Terms and Conditions
+        24.com Terms and Conditions - Updated April 2012
+        
+
+
+ 
+
+
+
+
+
+
+
+
+
+RSS feeds ·
+News24Wire ·
+Search ·
+Advertise on News24 ·
+Jobs at 24.com ·
+Terms & Conditions ·
+Contact us
+
+ 
+View: Mobile site | Website
+        © 2020 24.com. All rights reserved.
+    
+
+
+
+There are new stories on the homepage. Click here to see them.
+ 
+
+
+
+
+
+ $j('#viewVote').show(); $j('#writeVote').hide();
+
+//<![CDATA[
+var _virtualPath = 'https://www.news24.com/';//]]>
+
+
+if(typeof(topStoriesArray)  != 'undefined') topStoriesArray.push({'name':"Cop van petrol bombed, University of Zululand campus shut down after protests turn violent",'url':"https://www.news24.com/SouthAfrica/News/cop-van-petrol-bombed-university-of-zululand-campus-shut-down-after-protests-turn-violent-20200302",'icon':"https://www.news24.com/images/icons/Articles.ico"});if(typeof(topStoriesArray)  != 'undefined') topStoriesArray.push({'name':"Man found guilty of raping, killing woman whose body was found in maintenance shaft",'url':"https://www.news24.com/SouthAfrica/News/man-found-guilty-of-raping-killing-woman-whose-body-was-found-in-maintenance-shaft-20200302",'icon':"https://www.news24.com/images/icons/Articles.ico"});if(typeof(topStoriesArray)  != 'undefined') topStoriesArray.push({'name':"UPDATE: 21 killed in horror Eastern Cape bus crash ",'url':"https://www.news24.com/SouthAfrica/News/15-killed-20-injured-in-horror-eastern-cape-bus-crash-20200302",'icon':"https://www.news24.com/images/icons/Articles.ico"});if(typeof(topStoriesArray)  != 'undefined') topStoriesArray.push({'name':"Doubts around whether Jacob Zuma will attend KZN SOPA",'url':"https://www.news24.com/SouthAfrica/News/doubts-around-whether-jacob-zuma-will-attend-kzn-sopa-20200302",'icon':"https://www.news24.com/images/icons/Articles.ico"});if(typeof(topStoriesArray)  != 'undefined') topStoriesArray.push({'name':"Basketball coach charged with murder of missing Hout Bay boy after 'full confession'",'url':"https://www.news24.com/SouthAfrica/News/basketball-coach-charged-with-murder-of-missing-hout-bay-boy-after-full-confession-20200302",'icon':"https://www.news24.com/images/icons/Articles.ico"}); 
+
+
+
+    function checkAge(formElement) { var mAgeMin = formElement.form.mAgeMin.selectedIndex; var mAgeMax = formElement.form.mAgeMax.selectedIndex; if (mAgeMax < mAgeMin) { formElement.form.mAgeMin.options[mAgeMax].selected = true; formElement.form.mAgeMax.options[mAgeMin].selected = true } return true }
+
+
+
+
+
+
+
+
+
+
+Find your perfect match now!
+
+
+
+
+                I am a:
+            
+
+
+Woman
+Man
+
+
+
+
+
+                Looking for:
+            
+
+
+Women
+Men
+Men & Women
+
+
+
+
+
+                Age Range:
+
+
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+
+                to
+                
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        $j("#tab_search_data").html($j("#love2meetfix").html()); $j("#love2meetfix").html(""); $j(document).ready(function () { if ($j("#ad300bottom img").attr("height") == 1) $j("#ad300bottom").addClass("hideAdd"); if (getPCookie("pinify") == "") { $j("#topHatContainer").pinify("pinTeaser", { type: "hangingChad", pinText: "Experience News24 as a Pinned Site", pinText2: "Drag the icon to your taskbar", outLink: "http://windows.microsoft.com/en-US/internet-explorer/products/ie-9/features/pinned-sites", outLinkText: "Learn more about Site Pinning", style: { backgroundImage: "/images/toolbar-bg.png", closeButtonImage: "/images/close.png" } }) } if (window.location.hash) { if (window.location.hash == "#ContactUs") $j("#lnkFooterContactUs").click(); if (window.location.hash == "#ImageUpload") $j("#lnkImageUp").click(); if (window.location.hash == "#StoryUpload") $j("#linkStoryUp").click(); if (window.location.hash == "#VideoUpload") $j("#lnkVidoeUp").click() } });
+
+        if (typeof (topStoriesArray) != 'undefined' && $j.pinify) {
+            $j.pinify.addJumpList({ title: "News24 Headlines", items: topStoriesArray.reverse() });
+        }
+    
+
+
+
+
+News24
+
+
+English
+Afrikaans
+isiZulu
+
+
+|  
+            OLX  |  PROPERTY24  |  CAREERS24  |  SUPERBALIST  |  AUTOTRADER  |  
+        
+
+
+
+    function CheckUsernameAvailable() { var a = $j("#txtUsername").val(); var b = new RegExp("^[a-zA-Z0-9-_]*$"); if (!a == "") { if (!a.match(b)) $j("#originalHeader").fadeOut("fast", function () { $j("#headerUsernameError").html("Your username may not contain any spaces or special characters.").fadeIn("fast") }); else news24.getAjax("/Ajax/UgcData/", "CheckUsernameAvailability", { 'username': a }, CheckUsernameAvailableCallback) } else $j("#originalHeader").fadeOut("fast", function () { $j("#headerUsernameError").html('Please enter a username and then click "Register"').fadeIn("fast") }) } function CheckUsernameAvailableCallback(a) { if (!a.error && a != "error") { if (a == true) { $j("#enterUsernameDiv").fadeOut("fast", function () { $j("#spanNewUsername").html($j("#txtUsername").val()); $j("#txtDisplayName").val($j("#txtUsername").val()); $j("#personaliseProfileDiv").fadeIn("fast") }) } else $j("#originalHeader").fadeOut("fast", function () { $j("#headerUsernameError").html("Sorry, that username is not available").fadeIn("fast") }) } } function ResetAvatar() { $j.ajax({ url: "/AvatarRemove.axd?filename=" + $j("#avatarImage").attr("src"), type: "POST" }); $j("#avatarImage").attr("src", user.avatarUrl); $j("#btnResetAvatar").fadeOut() } function SaveUserProfile() {$j("#displayNameError").fadeOut("fast"); $j("#profileSaveError").fadeOut("fast"); var a = true; var b = escape($j("#txtDisplayName").val()); user.bio = escape($j("#txtAboutMe").val()); user.avatarUrl = $j("#avatarImage").attr("src"); user.name = escape($j("#txtUsername").val()); if (b == "") { a = false; $j("#displayNameError").fadeIn("fast") } else user.displayName = b; if (a) { $j("#personaliseProfileDiv").fadeOut("fast"); $j(".saveProfile").fadeIn("fast"); var data = JSON.stringify({ userSettings: user }); news24.getAjax("/Ajax/UgcData/", "SaveTinaProfile", data, SaveUserProfileCallback, null, "POST") }} function SaveUserProfileCallback(a) { if (!a.error && a.value != "error") { if (a.value === "upload") { $j(".saveProfile").fadeOut("fast"); $j("#personaliseProfileDiv").fadeIn("fast"); $j("a.call2action").click(); user.referrer = "" } else { $j("#fancybox-close").click(); location.reload(true) } } else { $j(".saveProfile").fadeOut("fast"); $j("#personaliseProfileDiv").fadeIn("fast"); $j("#profileSaveError").fadeIn("fast") } } function CheckCharacterCount(a) { a = a || window.event; var b = a.keyCode; if (b == 8 || b == 46) return true; else if ($j("#txtAboutMe").val().length < 1e3) return true; else return false } var user = { name: "", displayName: "", userid: "", avatarUrl: "", bio: "", referrer: "" }; var hasProfile = ""; $j(document).ready(function () { $j("#createProfileFire").fancybox({ padding: 0, centerOnScroll: true }); var a = $j("#btnUploadAvatar"); var b = $j("#avatarError"); new AjaxUpload(a, { action: "/AvatarUpload.axd", name: "uploadfile", data: { userid: user.userid }, onSubmit: function (a, c) { if (!(c && /^(jpg|png|jpeg|gif)$/.test(c))) { b.html("Only JPG, PNG or GIF files are allowed").fadeIn(); return false } b.html("Uploading...").fadeIn() }, onComplete: function (a, c) { b.html(""); if (!c.error) { var d = $j($j(c)[1]).html(); if (d != "error") { user.avatarUrl = $j("#avatarImage").attr("src"); $j("#avatarImage").attr("src", d); b.fadeOut().html(""); $j("#btnResetAvatar").fadeIn() } else b.html("* The image you selected could not be uploaded.").fadeIn() } else b.html("* The image you selected could not be uploaded.").fadeIn() } }); if (hasProfile == "true") { $j("#enterUsernameDiv").hide(); $j("#spanNewUsername").html(unescape(user.name)); $j("#txtDisplayName").val(unescape(user.displayName)); $j("#txtAboutMe").val(unescape(user.bio)); $j("#personaliseProfileDiv").show() } })
+
+ 
+
+
+
+
+Hello 
+
+Create Profile
+Creating your profile will enable you to submit photos and stories to get published on News24.
+Please provide a username for your profile page:
+
+This username must be unique, cannot be edited and will be used in the URL to your profile page across the entire 24.com network.
+
+
+
+
+
+
+
+Hello 
+
+Choose a display name:
+
+
+
+* You must provide a display name.
+Edit your avatar:
+
+
+Select an image file on your computer (max 4MB):
+
+
+* The image you selected could not be uploaded.
+
+Tell us a bit about yourself:
+
+* Your profile could not be saved at the moment. Please try again later.
+
+
+
+
+ 
+
+Saving your profile
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+        $j('.submit_button').click(function () { OpenTinaLoginWindow(); });
+        function OpenTinaLoginWindow(permission) {
+            json = { refreshPage: true, loginProvider: 'Facebook', tinaBaseUrl: 'https://auth.news24.com' };
+            json.scope = this;
+            if (permission)
+                json.permission = permission;
+            Tina.openLoginWindow(json);
+        }
+        tinaUrl = 'https://auth.news24.com';
+
+        var $24share = $24share || {};
+        $share24.fancybox = { height: 505, width: 498 };
+    
+
+var idleInterval;var idleTime = 0;
+$j(document).ready(function() {
+if(typeof jQuery !== 'undefined' && jQuery.hasOwnProperty('cookie') && !jQuery.cookie('closeidlead')){
+idleInterval = setInterval("timerIncrement()", 1000); 
+$j(this).mousemove(function(e) {idleTime = 0;});
+$j(this).keypress(function(e) {idleTime = 0;});
+$j(this).click(function (e) {idleTime = 0;});
+}
+});
+function timerIncrement() {
+idleTime = idleTime + 1;
+if (idleTime == 1800) {
+clearInterval(idleInterval);
+if (typeof GA24 !== 'undefined'){ GA24.trackEvent('IdleAd,open');
+} else {
+if (typeof dataLayer !== 'undefined') { dataLayer.push({'event': 'GAEvent','eventCategory': 'IdleAd','eventAction': 'open','eventLabel': undefined,'eventValue': undefined}); }
+}
+var popupUrl = '/IdlePopupPage.html?domain=' + document.domain + '&zone=' + za24_AdZone; 
+$j("<a href='" + popupUrl + "'></a>" ).fancybox({'width':730,'height':508, 'type': 'iframe', 'padding': '0px', 'scrolling':'auto'}).click();
+} 
+}
+
+
+
+    (function () {
+        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+        em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+    })();
+
+
+
+
+
+
+$j('#mapcanvas').hide();
+$j('#divMap').hide();
+
+
